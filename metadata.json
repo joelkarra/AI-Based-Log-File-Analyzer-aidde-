@@ -1,0 +1,5 @@
+{
+  "name": "Log File Analyzer",
+  "description": "An advanced AI-powered log file analyzer that uses Gemini to detect security threats, anomalies, and performance bottlenecks in system and application logs.",
+  "requestFramePermissions": []
+}
